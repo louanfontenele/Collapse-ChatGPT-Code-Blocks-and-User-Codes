@@ -19,4 +19,4 @@ Works on [chat.openai.com](https://chat.openai.com) and [chatgpt.com](https://ch
 
 ---
 
-**Keywords:** chatgpt, code block, collapse, toggle, hide, show, copy, userscript, tampermonkey, developer, chat.openai.com
+**Keywords:** chatgpt, code block, collapse, toggle, hide, show, copy, userscript, tampermonkey, developer, chat.openai.com, chatgpt.com, greasyfork
