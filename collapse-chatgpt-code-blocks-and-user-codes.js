@@ -7,6 +7,7 @@
 // @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function () {
